@@ -1,6 +1,6 @@
 # AudioBook - Dom Casmurro
 
-Um audiobook interativo de 10 capítulos baseado no livro "Dom Casmurro" de Machado de Assis, desenvolvido com HTML, CSS e JavaScript.
+Um audiobook interativo de 10 capítulos do livro "Dom Casmurro" de Machado de Assis, desenvolvido com HTML, CSS e JavaScript.
 
 Link do projeto: https://isaquea.github.io/audiobook/
 
